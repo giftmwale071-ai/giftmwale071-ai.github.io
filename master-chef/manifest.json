@@ -1,0 +1,13 @@
+{
+  "name": "Master Chef",
+  "short_name": "Master Chef",
+  "description": "A Lusaka kitchen for Gift J. Mwale. Cook from what you have.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#110e0c",
+  "theme_color": "#c4471a",
+  "icons": [
+    { "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
